@@ -1,22 +1,4 @@
-# SQL - Due progetti di Analisi Dati per portfolio
-
-Benvenuto nel mio portfolio di progetti SQL. 
-
-Questa repository contiene due progetti di analisi dati realizzati per dimostrare le mie competenze in SQL e nei DB relazionali. All'interno di ogni progetto troverete gli step e le queries necessarie per creare database, tabelle ed eseguire i test
-
-#### Chi sono io: profilo generico (con TLDR a seguire):
-Affidabile, autonoma e proattiva nell'apprendimento di nuove tecnologie, 
-lavoro efficacemente sia su task creativi (frontend, design componenti, problem-solving) 
-sia su attività strutturate e iterative come migration, refactoring e data cleaning, dove mantengo alta sia la concentrazione che l’attenzione al dettaglio.
-L'esperienza più significativa che ho avuto in ambito lavorativo è stata in somministrazione ad Engineering, dove mi è stato chiesto di imparare un nuovo tool 
-con poca documentazione (NICE technology) e sviluppare con esso un automatismo (RPA) di login, ricerca ed estrazione pratiche. 
-Mi è stata affidata inoltre anche la mansione di stesura della documentazione tecnica, apprezzata per chiarezza e praticità.
-Ho esperienza anche nell'utilizzo di JavaScript, React + NextJs (Corso frontend EQF:6) e Api-led Connectivity (Mulesoft Academy)
-
-TLDR: background in programmazione (Java, SQL, HTML, CSS, JS, React, basilari Angular, manipolazione API) ed esperienze in RPA development e frontend. 
-Appassionata di analisi dati, documentazione tecnica e lavoro metodico con focus su precisione e qualità.  
-
-## Progetti SQL:
+# Progetti SQL:
 ### 1. E-commerce Analytics
 Analisi dati per azienda e-commerce: identificazione dei clienti più redditizi, dei prodotti invenduti, delle performance delle categorie e dei trend stagionali.
 A tal fine ho utilizzato Query SQL con JOIN multipli, aggregazioni e calcoli statistici, subquery e query nidificate e analisi temporale
@@ -35,5 +17,6 @@ Database creato con MAMP (MySQL + phpMyAdmin), queries complesse con JOIN multip
 #### Note:
 Tutti i dati utilizzati all'interno delle tabelle dei due progetti (come nomi, indirizzi, ecc..) sono fittizi, generati tramite AI per rappresentare scenari business realistici. 
 I progetti li ho realizzati per testare le mie competenze SQL e la mia capacità di analisi dati in contesti professionali.
+
 
 
