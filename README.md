@@ -8,12 +8,12 @@ Questa repository contiene due progetti di analisi dati realizzati per dimostrar
 Affidabile, autonoma e proattiva nell'apprendimento di nuove tecnologie, 
 lavoro efficacemente sia su task creativi (frontend, design componenti, problem-solving) 
 sia su attività strutturate e iterative come migration, refactoring e data cleaning, dove mantengo alta sia la concentrazione che l’attenzione al dettaglio.
-L'esperienza più significativa che ho avuto in ambito lavorativo è stata in somministrazione ad Engineering, dove mi è stato chiesto di imparare un nuovo tool 
-con poca documentazione (NICE technology) e sviluppare con esso un automatismo (RPA) di login, ricerca ed estrazione pratiche. 
-Mi è stata affidata inoltre anche la mansione di stesura della documentazione tecnica, apprezzata per chiarezza e praticità.
-Ho esperienza anche nell'utilizzo di JavaScript, React + NextJs (Corso frontend EQF:6) e Api-led Connectivity (Mulesoft Academy)
+L'esperienza più significativa che ho avuto in ambito lavorativo è stata in somministrazione ad Engineering S.p.a, dove mi è stato chiesto di imparare un nuovo tool 
+con documentazione limitata (NICE technology) e, grazie alle mie conoscenze di OOP e Java 🙏, ho potuto sviluppare con esso un automatismo (RPA) di login, ricerca ed estrazione pratiche. 
+Ho avuto modo anche di occuparmi di stesura della documentazione tecnica, che con mia gioia è stata apprezzata per chiarezza e praticità. 
+Inoltre ho esperienza nell'utilizzo di JavaScript, ReactJs, NextJs, basilari di Angular (Corso EQF:6) e con l'Api-led Connectivity (grazie ad una Mulesoft Academy)
 
-TLDR: background in programmazione (Java, SQL, HTML, CSS, JS, React, basilari Angular, manipolazione API) ed esperienze in RPA development e frontend. 
+TLDR: background in programmazione (OOP, Java, SQL, JavaScript, TypeScript, ReactJs e NextJs, basilari Angular, manipolazione API, ) ed esperienze lavorative in sviluppo RPA e frontend. 
 Appassionata di analisi dati, documentazione tecnica e lavoro metodico con focus su precisione e qualità.  
 
 ## Progetti SQL:
