@@ -70,7 +70,7 @@ Utilizzerò: INNER JOIN, aggregazioni (SUM, COUNT), WHERE, GROUP BY, ORDER BY co
 
 **Risultato:** 5 migliori clienti con totale speso e numero ordini
 
-![risultato query 1](query1.png)
+![risultato query_1_top_clienti](query_1_top_clienti.png)
 
 ---
 
@@ -84,7 +84,7 @@ Utilizzerò: LEFT JOIN, filtro con IS NULL, JOIN tra 3 tabelle, gestione di rela
 
 **Risultato:** un prodotto mai venduto ("1984 - Orwell", categoria Libri)
 
-![risultato query 2](query2.png)
+![risultato query_2_prodotti_invenduti](query_2_prodotti_invenduti.png)
 
 ---
 
@@ -98,7 +98,7 @@ Utilizzerò: JOIN concatenati, calcoli (quantità × prezzo unitario), aggregazi
 
 **Risultato:** elettronica è la categoria più redditizia (3685€), seguita da Abbigliamento (330€)
 
-![risultato query 3](query3.png)
+![risultato query_3_vendite_categoria](query_3_vendite_categoria.png)
 
 ---
 
@@ -111,7 +111,7 @@ Utilizzerò: subquery con NOT IN, calcoli con date (DATEDIFF), WHERE NOT IN per 
 
 **Risultato:** 3 clienti inattivi identificati
 
-![risultato query 4](query4.png)
+![risultato query_4_clienti_inattivi](query_4_clienti_inattivi.png)
 
 ---
 
@@ -124,8 +124,8 @@ Utilizzerò: funzioni su date (YEAR, MONTH, MONTHNAME), aggregazioni temporali, 
 
 **Risultato:** gennaio è il mese più forte, mentre c'è un calo significativo da marzo a maggio
 
-![risultato query 5](query5.png)
-###### $\color{#D3D3D3}{\textsf{ORDER BY caricato in mod ASC per vedere se siete ancora attenti dopo tutte queste queries}}$ 😏
+![risultato query_5_performance_mensile](query_5_performance_mensile.png)
+###### $\color{#D3D3D3}{\textsf{immagine con ORDER BY caricato in mod ASC, per vedere se siete ancora attenti dopo tutte queste queries}}$ 😏
 
 
 ---
@@ -136,3 +136,4 @@ Progetto realizzato come portfolio per dimostrare competenze SQL e capacità di 
 I dati utilizzati all'interno delle tabelle (come nomi, cognomi, ordini effettuati, ecc) sono fittizi, generati tramite AI per rappresentare scenari business realistici. 
 
 Le query che ho creato le ho ottimizzate per leggibilità e manutenibilità.
+
