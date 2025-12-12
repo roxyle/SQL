@@ -75,7 +75,7 @@ Utilizzerò: JOIN multiple, calcoli aritmetici (differenza scorta), WHERE/filtri
 
 **Risultato:** 6 prodotti sotto scorta identificati
 
-![risultato query 1](query1.png)
+![risultato query_1_sotto_scorta](query_1_sotto_scorta.png)
 
 ---
 
@@ -86,7 +86,7 @@ Utilizzerò: CASE WHEN per conteggi condizionali, calcoli percentuali, SUM con c
 
 **Risultato:** top fornitore tedesco con 100% puntualità, a seguire fornitori italiani e francesi con 50% di puntualità, ultimo fornitore serbo con 1 ordine e 1 ritardo
 
-![risultato query 2](query2.png)
+![risultato query_2_fornitori_affidabili](query_2_fornitori_affidabili.png)
 
 ---
 
@@ -97,7 +97,7 @@ Utilizzerò: calcoli su due prezzi (acquisto e vendita), SUM su moltiplicazioni 
 
 **Risultato:** Bologna ha il valore più alto, seguita da Milano e Napoli
 
-![risultato query 3](query3.png)
+![risultato query_3_valore_inventario](query_3_valore_inventario.png)
 
 ---
 
@@ -108,7 +108,7 @@ Utilizzerò: LEFT JOIN per includere prodotti senza movimenti, MAX() su date per
 
 **Risultato:** 7 prodotti fermi da oltre 30 giorni, 8 prodotti senza movimenti
 
-![risultato query 4](image.png)
+![risultato query_4_movimenti_lenti](query_4_movimenti_lenti.png)
 
 ---
 
